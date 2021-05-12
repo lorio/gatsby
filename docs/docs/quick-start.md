@@ -44,4 +44,4 @@ Try editing the home page in `src/pages/index.js`. Saved changes will live reloa
 
 ### Deploy your site
 
-Try using [Gatsby Cloud](https://www.gatsbyjs.com/cloud/) to build and deploy your site to one of many hosting providers.
+Try using [Gatsby Cloud](https://www.gatsbyjs.com/cloud/) to build and deploy your site.
